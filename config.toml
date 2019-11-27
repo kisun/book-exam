@@ -2,7 +2,7 @@ baseurl = "/"
 languageCode = "en-us"
 title = "Notes and Bits of Kisun Pokharel"
 theme = "hugo-lithium"
-categories = ["book chapter", "review papers"]
+preserveTaxonomyNames = true
 googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
@@ -13,10 +13,12 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   category = "categories"
   tag = "tags"
 
-
 [[menu.main]]
     name = "About"
     url = "/about/"
+[[menu.main]]
+    name = "Categories"
+    url = "/categories"
 [[menu.main]]
     name = "GitHub"
     url = "https://github.com/kisun"
