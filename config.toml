@@ -2,12 +2,17 @@ baseurl = "/"
 languageCode = "en-us"
 title = "Notes and Bits of Kisun Pokharel"
 theme = "hugo-lithium"
+categories = ["book chapter", "review papers"]
 googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [permalinks]
     post = "/:year/:month/:day/:slug/"
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
 
 [[menu.main]]
     name = "About"

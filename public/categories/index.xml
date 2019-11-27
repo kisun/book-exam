@@ -20,5 +20,14 @@
       <description></description>
     </item>
     
+    <item>
+      <title>book chapter</title>
+      <link>/categories/book-chapter/</link>
+      <pubDate>Tue, 01 Jan 2013 13:09:13 -0700</pubDate>
+      
+      <guid>/categories/book-chapter/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
