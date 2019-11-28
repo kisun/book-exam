@@ -3,32 +3,77 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/2016/12/30/a-plain-markdown-post/</loc>
-    <lastmod>2016-12-30T21:49:57-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/book-chapter/</loc>
-    <lastmod>2016-12-30T21:49:57-07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/categories/</loc>
-    <lastmod>2016-12-30T21:49:57-07:00</lastmod>
+    <lastmod>2019-11-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2016-12-30T21:49:57-07:00</lastmod>
+    <lastmod>2019-11-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2016-12-30T21:49:57-07:00</lastmod>
+    <lastmod>2019-11-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/review-paper/</loc>
+    <lastmod>2019-11-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2019/11/28/rna-sequencing-the-teenage-years/</loc>
+    <lastmod>2019-11-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/rna-seq/</loc>
+    <lastmod>2019-11-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-11-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/nutrition/</loc>
+    <lastmod>2019-01-01T13:09:13-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/oocyte/</loc>
+    <lastmod>2019-01-01T13:09:13-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/ovary/</loc>
+    <lastmod>2019-01-01T13:09:13-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2019/01/01/regulation-of-folliculogenesis-and-is-and-the-determination-of-ovulation-rate-in-ruminants/</loc>
+    <lastmod>2019-01-01T13:09:13-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2017/12/30/a-plainnnn-markdown-post/</loc>
+    <lastmod>2017-12-30T21:49:57-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/book-chapter/</loc>
+    <lastmod>2017-12-30T21:49:57-07:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/r/</loc>
+    <lastmod>2017-12-30T21:49:57-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2016/12/30/a-plain-markdown-post/</loc>
     <lastmod>2016-12-30T21:49:57-07:00</lastmod>
   </url>
   
@@ -63,11 +108,6 @@
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/categories/review-papers/</loc>
     <lastmod>2015-01-01T13:09:13-06:00</lastmod>
   </url>
@@ -78,18 +118,28 @@
   </url>
   
   <url>
-    <loc>/categories/others/</loc>
-    <lastmod>2013-01-01T13:09:13-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/2013/01/01/review-of-rna-seq-paper.-more-to-be-added.rna-seq-2009-nature-genetics-nn-pp/</loc>
-    <lastmod>2013-01-01T13:09:13-07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/2011/11/28/review-okay-of-rna-seq-paper.-more-to-be-added.rna-seq-2009-nature-genetics-nn-pp/</loc>
     <lastmod>2011-11-28T14:09:13-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/ovulation-rate/</loc>
+  </url>
+  
+  <url>
+    <loc>/1/01/01/regulation-of-folliculogenesis-and-the-determination-of-ovulation-rate-in-ruminants/</loc>
+  </url>
+  
+  <url>
+    <loc>/1/01/01/regulation-of-ovulation-rate-in-mammals-contribution-of-sheep-genetic-models/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/review-articles/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/unfinished/</loc>
   </url>
   
 </urlset>

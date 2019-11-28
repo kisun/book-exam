@@ -6,10 +6,37 @@
     <description>Recent content on Notes and Bits of Kisun Pokharel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Dec 2016 21:49:57 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 28 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>RNA sequencing: the teenage years</title>
+      <link>/2019/11/28/rna-sequencing-the-teenage-years/</link>
+      <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/11/28/rna-sequencing-the-teenage-years/</guid>
+      <description>RNA sequencing: the teenage years Roy Stark et al. 2012 (26pp)</description>
+    </item>
+    
+    <item>
+      <title>Regulation of folliculogenesis and is and the determination of ovulation rate in ruminants</title>
+      <link>/2019/01/01/regulation-of-folliculogenesis-and-is-and-the-determination-of-ovulation-rate-in-ruminants/</link>
+      <pubDate>Tue, 01 Jan 2019 13:09:13 -0700</pubDate>
+      
+      <guid>/2019/01/01/regulation-of-folliculogenesis-and-is-and-the-determination-of-ovulation-rate-in-ruminants/</guid>
+      <description>Important paper on folliculogenesis and ovulation rate in sheep.</description>
+    </item>
+    
+    <item>
+      <title>A Plainnnn Markdown Post</title>
+      <link>/2017/12/30/a-plainnnn-markdown-post/</link>
+      <pubDate>Sat, 30 Dec 2017 21:49:57 -0700</pubDate>
+      
+      <guid>/2017/12/30/a-plainnnn-markdown-post/</guid>
+      <description>Definitely needs improvement</description>
+    </item>
     
     <item>
       <title>A Plain Markdown Post</title>
@@ -51,21 +78,30 @@ summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
     </item>
     
     <item>
-      <title>Review of RNA-Seq paper. more to be added.RNA-Seq (2009), Nature Genetics, nn pp</title>
-      <link>/2013/01/01/review-of-rna-seq-paper.-more-to-be-added.rna-seq-2009-nature-genetics-nn-pp/</link>
-      <pubDate>Tue, 01 Jan 2013 13:09:13 -0700</pubDate>
-      
-      <guid>/2013/01/01/review-of-rna-seq-paper.-more-to-be-added.rna-seq-2009-nature-genetics-nn-pp/</guid>
-      <description>Review of RNA-Seq paper. more to be added.</description>
-    </item>
-    
-    <item>
       <title>Review okay of RNA-Seq paper. more to be added.RNA-Seq (2009), Nature Genetics, nn pp</title>
       <link>/2011/11/28/review-okay-of-rna-seq-paper.-more-to-be-added.rna-seq-2009-nature-genetics-nn-pp/</link>
       <pubDate>Mon, 28 Nov 2011 14:09:13 -0700</pubDate>
       
       <guid>/2011/11/28/review-okay-of-rna-seq-paper.-more-to-be-added.rna-seq-2009-nature-genetics-nn-pp/</guid>
       <description>Review okay of RNA-Seq paper. more and to be added1.</description>
+    </item>
+    
+    <item>
+      <title>Regulation of folliculogenesis and the determination of ovulation rate in ruminants</title>
+      <link>/1/01/01/regulation-of-folliculogenesis-and-the-determination-of-ovulation-rate-in-ruminants/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/1/01/01/regulation-of-folliculogenesis-and-the-determination-of-ovulation-rate-in-ruminants/</guid>
+      <description>Regulation of folliculogenesis and the determination of ovulation rate in ruminants. Scaramuzzi et al. Reproduction, Fertility and Development, 2011, 23, 444-467</description>
+    </item>
+    
+    <item>
+      <title>Regulation of ovulation rate in mammals: contribution of sheep genetic models</title>
+      <link>/1/01/01/regulation-of-ovulation-rate-in-mammals-contribution-of-sheep-genetic-models/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/1/01/01/regulation-of-ovulation-rate-in-mammals-contribution-of-sheep-genetic-models/</guid>
+      <description>Regulation of ovulation rate in mmamals: contribution of sheep genetic models. Stephane Fabre et al. 2006 (12pp)</description>
     </item>
     
   </channel>
