@@ -6,17 +6,53 @@
     <description>Recent content in Categories on Notes and Bits of Kisun Pokharel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 30 Dec 2016 21:49:57 -0700</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>book chapter</title>
+      <link>/categories/book-chapter/</link>
+      <pubDate>Fri, 30 Dec 2016 21:49:57 -0700</pubDate>
+      
+      <guid>/categories/book-chapter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>R</title>
       <link>/categories/r/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <pubDate>Fri, 30 Dec 2016 21:49:57 -0700</pubDate>
       
       <guid>/categories/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reegression</title>
+      <link>/categories/reegression/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/categories/reegression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>review papers</title>
+      <link>/categories/review-papers/</link>
+      <pubDate>Thu, 01 Jan 2015 13:09:13 -0600</pubDate>
+      
+      <guid>/categories/review-papers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>others</title>
+      <link>/categories/others/</link>
+      <pubDate>Tue, 01 Jan 2013 13:09:13 -0700</pubDate>
+      
+      <guid>/categories/others/</guid>
       <description></description>
     </item>
     
