@@ -21,9 +21,45 @@
     </item>
     
     <item>
+      <title>corpus luteum</title>
+      <link>/tags/corpus-luteum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/corpus-luteum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>genetic resources</title>
+      <link>/tags/genetic-resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/genetic-resources/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>immunology</title>
+      <link>/tags/immunology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/immunology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>imprinting</title>
+      <link>/tags/imprinting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/imprinting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>nutrition</title>
       <link>/tags/nutrition/</link>
-      <pubDate>Tue, 01 Jan 2019 13:09:13 -0700</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/tags/nutrition/</guid>
       <description></description>
@@ -32,7 +68,7 @@
     <item>
       <title>oocyte</title>
       <link>/tags/oocyte/</link>
-      <pubDate>Tue, 01 Jan 2019 13:09:13 -0700</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/tags/oocyte/</guid>
       <description></description>
@@ -41,36 +77,9 @@
     <item>
       <title>ovary</title>
       <link>/tags/ovary/</link>
-      <pubDate>Tue, 01 Jan 2019 13:09:13 -0700</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/tags/ovary/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>plot</title>
-      <link>/tags/plot/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/tags/plot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R Markdown</title>
-      <link>/tags/r-markdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/tags/r-markdown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>regression</title>
-      <link>/tags/regression/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/tags/regression/</guid>
       <description></description>
     </item>
     
@@ -84,11 +93,11 @@
     </item>
     
     <item>
-      <title>unfinished</title>
-      <link>/tags/unfinished/</link>
+      <title>prolificacy</title>
+      <link>/tags/prolificacy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/tags/unfinished/</guid>
+      <guid>/tags/prolificacy/</guid>
       <description></description>
     </item>
     

@@ -1,7 +1,7 @@
 ---
 date: 2019-11-28
 title: "RNA sequencing: the teenage years"
-categories: ["review paper"]
+categories: ["review articles"]
 tags: ["rna-seq"]
 ---
 RNA sequencing: the teenage years

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>book chapters on Notes and Bits of Kisun Pokharel</title>
+    <link>/categories/book-chapters/</link>
+    <description>Recent content in book chapters on Notes and Bits of Kisun Pokharel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/categories/book-chapters/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Corpus Luteum Formation</title>
+      <link>/1/01/01/corpus-luteum-formation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/1/01/01/corpus-luteum-formation/</guid>
+      <description>Ketan Shrestha et al. 2019 (copy provided by Rina Meidan), 36pp</description>
+    </item>
+    
+    <item>
+      <title>Genetics of Reproduction in Sheep</title>
+      <link>/1/01/01/genetics-of-reproduction-in-sheep/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/1/01/01/genetics-of-reproduction-in-sheep/</guid>
+      <description>Chapter 1: Selection for litter size, GE Bradford, 15pp
+Chapter 2: Crossbreeding for fecundity, W.J. Boylan, 4 pp
+Chapter 3: Evaluation and utilization of Finnsheep, L.D Young et al., 14pp
+Chapter 10: Genetic and maternal effects on sheep reproduction and their influence on slection, G. Nitter, 10pp
+Chapter 16: Utilization of major genes, Charles smith, 8pp
+Chapter 19: Linear programming model for incorporating the boorola gene into another breed, J.M. Elsen et al, 8pp</description>
+    </item>
+    
+    <item>
+      <title>The genetics of Sheep</title>
+      <link>/1/01/01/the-genetics-of-sheep/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/1/01/01/the-genetics-of-sheep/</guid>
+      <description>Chapter 1
+Chapter 2
+chapter 15
+Chapter 16</description>
+    </item>
+    
+  </channel>
+</rss>
