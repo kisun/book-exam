@@ -25,6 +25,9 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [[menu.main]]
     name = "Twitter"
     url = "https://twitter.com/kisunpokharel"
+[[menu.main]]
+    name = "Tags"
+    url = "/tags"
 
 [params]
     description = "Summary of review papers and book chapters"
