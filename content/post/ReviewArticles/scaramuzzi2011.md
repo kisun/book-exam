@@ -1,6 +1,6 @@
 ---
 title: Regulation of folliculogenesis and the determination of ovulation rate in ruminants
-categories: ["review paper"]
+categories: ["review articles"]
 tags: ["ovary", "nutrition", "oocyte"]
 ---
 Regulation of folliculogenesis and the determination of ovulation rate in ruminants.

@@ -1,7 +1,7 @@
 ---
 title: "Regulation of ovulation rate in mammals: contribution of sheep genetic models"
 categories: ["review articles"]
-tags: ["ovulation rate", "unfinished"]
+tags: ["ovulation rate"]
 
 ---
 
