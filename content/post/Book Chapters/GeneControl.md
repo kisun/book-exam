@@ -5,4 +5,8 @@ tags: ["theory"]
 
 ---
 
-Whole book
+## Chapter summary
+
+### Chapter 1: 
+
+### Chapter 2: 
