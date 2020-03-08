@@ -11,20 +11,20 @@
     
     
     <item>
-      <title>Corpus Luteum Formation</title>
-      <link>/1/01/01/corpus-luteum-formation/</link>
+      <title>Gene Control (3cp)</title>
+      <link>/1/01/01/gene-control-3cp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/1/01/01/corpus-luteum-formation/</guid>
-      <description>Ketan Shrestha et al. 2019 (copy provided by Rina Meidan), 36pp</description>
+      <guid>/1/01/01/gene-control-3cp/</guid>
+      <description>Whole book</description>
     </item>
     
     <item>
-      <title>Genetics of Reproduction in Sheep</title>
-      <link>/1/01/01/genetics-of-reproduction-in-sheep/</link>
+      <title>Genetics of Reproduction in Sheep (2cp)</title>
+      <link>/1/01/01/genetics-of-reproduction-in-sheep-2cp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/1/01/01/genetics-of-reproduction-in-sheep/</guid>
+      <guid>/1/01/01/genetics-of-reproduction-in-sheep-2cp/</guid>
       <description>Chapter 1: Selection for litter size, GE Bradford, 15pp
 Chapter 2: Crossbreeding for fecundity, W.J. Boylan, 4 pp
 Chapter 3: Evaluation and utilization of Finnsheep, L.D Young et al., 14pp
@@ -34,15 +34,12 @@ Chapter 19: Linear programming model for incorporating the boorola gene into ano
     </item>
     
     <item>
-      <title>The genetics of Sheep</title>
-      <link>/1/01/01/the-genetics-of-sheep/</link>
+      <title>Physiology of Reproduction (2cp)</title>
+      <link>/1/01/01/physiology-of-reproduction-2cp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/1/01/01/the-genetics-of-sheep/</guid>
-      <description>Chapter 1
-Chapter 2
-chapter 15
-Chapter 16</description>
+      <guid>/1/01/01/physiology-of-reproduction-2cp/</guid>
+      <description>Chapter 21, Follicular development in mouse, sheep and human models (49 pp) Chapter 22, Ovulation (25pp) Chapter 23, Structure, Function and Regulation of the corpus luteum (54pp) Chapter 27, Control ovarian cycle of the sheep (47pp) Chapter 38, Embryo Implantation (43pp) Chapter 52, Epigenetics of Reproduction (63pp)</description>
     </item>
     
   </channel>

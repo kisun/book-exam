@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>expression on Notes and Bits of Kisun Pokharel</title>
+    <link>/tags/expression/</link>
+    <description>Recent content in expression on Notes and Bits of Kisun Pokharel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 Nov 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/expression/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gene expression and regulation (2cp)</title>
+      <link>/2019/11/28/gene-expression-and-regulation-2cp/</link>
+      <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/11/28/gene-expression-and-regulation-2cp/</guid>
+      <description>RNA sequencing: the teenage years Roy Stark et al. 2012 (26pp)
+Genome Regulation by Long Noncoding RNAs. John L. Rinn and Howard Y. Chang Annual Review of Biochemistry Vol. 81:145-166 (Volume publication date July 2012) https://doi.org/10.1146/annurev-biochem-051410-092902 (21 pp)
+Non-coding RNAs in Development and Disease: Background, Mechanisms, and Therapeutic Approaches Julia Beermann, Maria-Teresa Piccoli, Janika Viereck, and Thomas Thum 17 AUG 2016https://doi.org/10.1152/physrev.00041.2015 (29 pp)
+Long non‐coding RNA regulation of reproduction and development David H.</description>
+    </item>
+    
+  </channel>
+</rss>

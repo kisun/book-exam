@@ -12,38 +12,20 @@
     
     
     <item>
-      <title>rna-seq</title>
-      <link>/tags/rna-seq/</link>
+      <title>expression</title>
+      <link>/tags/expression/</link>
       <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/rna-seq/</guid>
+      <guid>/tags/expression/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>corpus luteum</title>
-      <link>/tags/corpus-luteum/</link>
+      <title>embryonic diapause</title>
+      <link>/tags/embryonic-diapause/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/tags/corpus-luteum/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>genetic resources</title>
-      <link>/tags/genetic-resources/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/genetic-resources/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>immunology</title>
-      <link>/tags/immunology/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/immunology/</guid>
+      <guid>/tags/embryonic-diapause/</guid>
       <description></description>
     </item>
     
@@ -57,38 +39,29 @@
     </item>
     
     <item>
-      <title>nutrition</title>
-      <link>/tags/nutrition/</link>
+      <title>ovulation</title>
+      <link>/tags/ovulation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/tags/nutrition/</guid>
+      <guid>/tags/ovulation/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>oocyte</title>
-      <link>/tags/oocyte/</link>
+      <title>physiology</title>
+      <link>/tags/physiology/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/tags/oocyte/</guid>
+      <guid>/tags/physiology/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>ovary</title>
-      <link>/tags/ovary/</link>
+      <title>preimplantation</title>
+      <link>/tags/preimplantation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/tags/ovary/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ovulation rate</title>
-      <link>/tags/ovulation-rate/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/ovulation-rate/</guid>
+      <guid>/tags/preimplantation/</guid>
       <description></description>
     </item>
     
@@ -102,11 +75,11 @@
     </item>
     
     <item>
-      <title>transcription</title>
-      <link>/tags/transcription/</link>
+      <title>theory</title>
+      <link>/tags/theory/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/tags/transcription/</guid>
+      <guid>/tags/theory/</guid>
       <description></description>
     </item>
     

@@ -8,6 +8,16 @@
   </url>
   
   <url>
+    <loc>/tags/expression/</loc>
+    <lastmod>2019-11-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2019/11/28/gene-expression-and-regulation-2cp/</loc>
+    <lastmod>2019-11-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/</loc>
     <lastmod>2019-11-28T00:00:00+00:00</lastmod>
   </url>
@@ -19,16 +29,6 @@
   
   <url>
     <loc>/categories/review-articles/</loc>
-    <lastmod>2019-11-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/2019/11/28/rna-sequencing-the-teenage-years/</loc>
-    <lastmod>2019-11-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/rna-seq/</loc>
     <lastmod>2019-11-28T00:00:00+00:00</lastmod>
   </url>
   
@@ -47,43 +47,23 @@
   </url>
   
   <url>
-    <loc>/tags/corpus-luteum/</loc>
+    <loc>/tags/embryonic-diapause/</loc>
   </url>
   
   <url>
-    <loc>/1/01/01/corpus-luteum-formation/</loc>
+    <loc>/1/01/01/embryonic-diapause-1cp/</loc>
   </url>
   
   <url>
-    <loc>/1/01/01/genetic-diversity-in-farm-animals-a-review/</loc>
+    <loc>/1/01/01/gene-control-3cp/</loc>
   </url>
   
   <url>
-    <loc>/tags/genetic-resources/</loc>
+    <loc>/1/01/01/genetics-of-reproduction-in-sheep-2cp/</loc>
   </url>
   
   <url>
-    <loc>/1/01/01/genetics-of-reproduction-in-sheep/</loc>
-  </url>
-  
-  <url>
-    <loc>/1/01/01/genomic-imprinnnting-in-mammals/</loc>
-  </url>
-  
-  <url>
-    <loc>/1/01/01/genomic-imprinting-and-parent-of-origin-effects-on-complex-traits/</loc>
-  </url>
-  
-  <url>
-    <loc>/1/01/01/genomic-imprinting-in-mammals/</loc>
-  </url>
-  
-  <url>
-    <loc>/1/01/01/genomic-imprinting-the-emergence-of-an-epigenetic-paradigm/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/immunology/</loc>
+    <loc>/1/01/01/genomic-imprinting-0.5cp/</loc>
   </url>
   
   <url>
@@ -91,19 +71,27 @@
   </url>
   
   <url>
-    <loc>/tags/nutrition/</loc>
+    <loc>/tags/ovulation/</loc>
   </url>
   
   <url>
-    <loc>/tags/oocyte/</loc>
+    <loc>/1/01/01/ovulation-1cp/</loc>
   </url>
   
   <url>
-    <loc>/tags/ovary/</loc>
+    <loc>/tags/physiology/</loc>
   </url>
   
   <url>
-    <loc>/tags/ovulation-rate/</loc>
+    <loc>/1/01/01/physiology-of-reproduction-2cp/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/preimplantation/</loc>
+  </url>
+  
+  <url>
+    <loc>/1/01/01/preimplantation-1.5-cp/</loc>
   </url>
   
   <url>
@@ -111,39 +99,7 @@
   </url>
   
   <url>
-    <loc>/1/01/01/regulation-of-folliculogenesis-and-the-determination-of-ovulation-rate-in-ruminants/</loc>
-  </url>
-  
-  <url>
-    <loc>/1/01/01/regulation-of-ovulation-rate-in-mammals-contribution-of-sheep-genetic-models/</loc>
-  </url>
-  
-  <url>
-    <loc>/1/01/01/rna-seq-a-revolutionary-tool-for-transcriptomics/</loc>
-  </url>
-  
-  <url>
-    <loc>/1/01/01/the-contribution-of-the-maternal-immune-system-to-the-establishment-of-pregnancy-in-cattle/</loc>
-  </url>
-  
-  <url>
-    <loc>/1/01/01/the-evolution-of-transcriptional-regulation-in-eukaryotes/</loc>
-  </url>
-  
-  <url>
-    <loc>/1/01/01/the-genetics-of-sheep/</loc>
-  </url>
-  
-  <url>
-    <loc>/1/01/01/the-immunology-of-early-pregnancy-in-farm-animals/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/transcription/</loc>
-  </url>
-  
-  <url>
-    <loc>/1/01/01/utilization-of-farm-animal-genetic-resources-in-a-changing-agro-ecological-environment-in-the-nordic-countries/</loc>
+    <loc>/tags/theory/</loc>
   </url>
   
 </urlset>
