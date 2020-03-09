@@ -1,6 +1,6 @@
 ---
 date: 2020-02-28
-title: "Non-coding RNA (Review articles, 1.5cp)"
+title: "Non-coding RNA (review articles, 1.5cp)"
 categories: ["review articles"]
 tags: ["ncRNA"]
 ---

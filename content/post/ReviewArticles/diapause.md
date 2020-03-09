@@ -1,6 +1,6 @@
 ---
 date: 2020-03-22
-title: "Embryonic diapause (Review articles, 1cp)"
+title: "Embryonic diapause (review articles, 1cp)"
 categories: ["review articles"]
 tags: ["embryonic diapause"]
 

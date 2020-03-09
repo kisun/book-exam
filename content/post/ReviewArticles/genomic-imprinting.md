@@ -1,6 +1,6 @@
 ---
 date: 2020-03-03
-title: "Genomic imprinting (Review articles, 1cp)"
+title: "Genomic imprinting (review articles, 1cp)"
 categories: ["review articles"]
 tags: ["imprinting"]
 

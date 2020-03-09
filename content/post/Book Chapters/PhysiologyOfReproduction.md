@@ -1,7 +1,7 @@
 ---
 date: 2020-01-24
 title: "Physiology of Reproduction (book, 2cp)"
-categories: ["book chapters"]
+categories: ["book"]
 tags: ["physiology"]
 
 ---
