@@ -1,9 +1,13 @@
 ---
-Title: "Gene Control (3cp)"
+date: 2020-03-28
+Title: "Gene Control (book, 3cp)"
 categories: ["book chapters"]
 tags: ["theory"]
 
 ---
+
+Book: Gene Control / David S. Latchman (2010)
+All chapters from this book.
 
 ## Chapter summary
 

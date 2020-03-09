@@ -6,21 +6,112 @@
     <description>Recent content on Notes and Bits of Kisun Pokharel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Gene expression and regulation (2cp)</title>
-      <link>/2019/11/28/gene-expression-and-regulation-2cp/</link>
-      <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
+      <title>Gene Control (book, 3cp)</title>
+      <link>/2020/03/28/gene-control-book-3cp/</link>
+      <pubDate>Sat, 28 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2019/11/28/gene-expression-and-regulation-2cp/</guid>
-      <description>RNA sequencing: the teenage years Roy Stark et al. 2012 (26pp)
-Genome Regulation by Long Noncoding RNAs. John L. Rinn and Howard Y. Chang Annual Review of Biochemistry Vol. 81:145-166 (Volume publication date July 2012) https://doi.org/10.1146/annurev-biochem-051410-092902 (21 pp)
-Non-coding RNAs in Development and Disease: Background, Mechanisms, and Therapeutic Approaches Julia Beermann, Maria-Teresa Piccoli, Janika Viereck, and Thomas Thum 17 AUG 2016https://doi.org/10.1152/physrev.00041.2015 (29 pp)
-Long non‐coding RNA regulation of reproduction and development David H.</description>
+      <guid>/2020/03/28/gene-control-book-3cp/</guid>
+      <description>Book: Gene Control / David S. Latchman (2010) All chapters from this book.
+Chapter summary Chapter 1: Chapter 2: </description>
+    </item>
+    
+    <item>
+      <title>Embryonic diapause (Review articles, 1cp)</title>
+      <link>/2020/03/22/embryonic-diapause-review-articles-1cp/</link>
+      <pubDate>Sun, 22 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/03/22/embryonic-diapause-review-articles-1cp/</guid>
+      <description>Summary Based on the following review articles   Diapause. Marilyn B Renfree, Geoffrey Shaw. Annual Review of Physiology. 2000 link (23pp)
+  Embryonic Diapause Is Conserved across Mammals. Grazyna E. Ptak ,Emanuela Tacconi,Marta Czernik,Paola Toschi,Jacek A. Modlinski,Pasqualino Loi. PLOS One. 2012 link (7pp)
+  The enigma of embryonic diapause. Marilyn B. Renfree, Jane C. Fenelon. Development. 2017 link (12pp)
+  Embryonic diapause and its regulation. Lopes FL, Desmarais JA, Murphy BD.</description>
+    </item>
+    
+    <item>
+      <title>Ovulation (Review articles, 1cp)</title>
+      <link>/2020/03/12/ovulation-review-articles-1cp/</link>
+      <pubDate>Thu, 12 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/03/12/ovulation-review-articles-1cp/</guid>
+      <description>Summary Based on the following   Regulation of ovulation rate in mmamals: contribution of sheep genetic models. Fabre S, Pierre A, Mulsant P, Bodin L, Pasquale ED, Persani L, Monget P, Monniaux D. Reproductive Biology and Endocrinology. 2006 link (12pp)
+  A review of the effects of supplementary nutrition in the ewe on the concentrations of reproductive and metabolic hormones and the mechanisms that regulate folliculogenesis and ovulation rate.</description>
+    </item>
+    
+    <item>
+      <title>Genomic imprinting (Review articles, 1cp)</title>
+      <link>/2020/03/03/genomic-imprinting-review-articles-1cp/</link>
+      <pubDate>Tue, 03 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/03/03/genomic-imprinting-review-articles-1cp/</guid>
+      <description>Based on the following Review articles   Genomic imprinting in mammals. Barlow DP, Bartolomei MS. Cold Spring Harbor Perspectives in Biology, (2014) link 20pp
+  Genomic imprinting and parent-of-origin effects on complex traits. Lawson HA, Cheverud JM, Wolf JB. Nature Reviews Genetics. (2013) link (10pp)
+  Genomic imprinting: the emergence of an epigenetic paradigm. Ferguson-Smith AC. Nature Reviews Genetics. (2011) link (12pp)
+  Genomic imprinting effects on complex traits in domesticated animal species.</description>
+    </item>
+    
+    <item>
+      <title>Non-coding RNA (Review articles, 1.5cp)</title>
+      <link>/2020/02/28/non-coding-rna-review-articles-1.5cp/</link>
+      <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/02/28/non-coding-rna-review-articles-1.5cp/</guid>
+      <description>This section is mainly about non-coding RNA and their role in gene regulation.
+  Genome Regulation by Long Noncoding RNAs. Rinn JL, Chang HY. Annual Review of Biochemistry (2012) [link]https://doi.org/10.1146/annurev-biochem-051410-092902 (21 pp)
+  Non-coding RNAs in Development and Disease: Background, Mechanisms, and Therapeutic Approaches Beermann J, Piccoli MT, Viereck J, Thum T. Physiological Reviews 2016 link (29 pp)
+  Long non‐coding RNA regulation of reproduction and development. Molecular Reproduction and Development (2015)link (25pp)</description>
+    </item>
+    
+    <item>
+      <title>RNA-Seq (review articles, 1cp)</title>
+      <link>/2020/01/28/rna-seq-review-articles-1cp/</link>
+      <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/01/28/rna-seq-review-articles-1cp/</guid>
+      <description>  A survey of best practices for RNA-seq data analysis Conesa A, Madrigal P, Tarazona S, Gomez-Cabrero D, Cervera A, McPherson A, Szcześniak MW, Gaffney DJ, Elo LL, Zhang X, Mortazavi A. Genome Biology. (2016) link
+  RNA sequencing: the teenage years Stark R, Grzelak M, Hadfield J. Nature Reviews Genetics. (2012) link (26pp)
+  </description>
+    </item>
+    
+    <item>
+      <title>Genetics of Reproduction in Sheep (book, 2cp)</title>
+      <link>/2020/01/24/genetics-of-reproduction-in-sheep-book-2cp/</link>
+      <pubDate>Fri, 24 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/01/24/genetics-of-reproduction-in-sheep-book-2cp/</guid>
+      <description>Chapter 1: Selection for litter size, GE Bradford, 15pp
+Chapter 2: Crossbreeding for fecundity, W.J. Boylan, 4 pp
+Chapter 3: Evaluation and utilization of Finnsheep, L.D Young et al., 14pp
+Chapter 10: Genetic and maternal effects on sheep reproduction and their influence on slection, G. Nitter, 10pp
+Chapter 16: Utilization of major genes, Charles smith, 8pp
+Chapter 19: Linear programming model for incorporating the boorola gene into another breed, J.M. Elsen et al, 8pp</description>
+    </item>
+    
+    <item>
+      <title>Physiology of Reproduction (book, 2cp)</title>
+      <link>/2020/01/24/physiology-of-reproduction-book-2cp/</link>
+      <pubDate>Fri, 24 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/01/24/physiology-of-reproduction-book-2cp/</guid>
+      <description>Book: Knobil and Neill&#39;s Physiology of Reproduction 4th Edition (2014)
+Selected (see below) chapters from this book.
+Chapter Summary Chapter 21, Follicular development in mouse, sheep and human models (49 pp) Chapter 22, Ovulation (25pp) Chapter 23, Structure, Function and Regulation of the corpus luteum (54pp) Chapter 27, Control ovarian cycle of the sheep (47pp) Chapter 38, Embryo Implantation (43pp) Chapter 52, Epigenetics of Reproduction (63pp) </description>
+    </item>
+    
+    <item>
+      <title>preimplantation (review articles, 1.5 cp)</title>
+      <link>/2020/01/18/preimplantation-review-articles-1.5-cp/</link>
+      <pubDate>Sat, 18 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/01/18/preimplantation-review-articles-1.5-cp/</guid>
+      <description>Summary Based on the following review articles   The contribution of the maternal immune system to the establishment of pregnancy in cattle. Trudee F. Frontiers in Immunology. 2015 link (8pp)
+  Bridging endometrial receptivity and implantation: network of hormones, cytokines, and growth factors. Singh M, Chaudhry P, Asselin E. Journal of Endocrinology. 2011 link (9pp)
+  Comparative aspects of implantation.Bazer FW, Spencer TE, Johnson GA, Burghardt RC, Wu G.</description>
     </item>
     
     <item>
@@ -31,84 +122,6 @@ Long non‐coding RNA regulation of reproduction and development David H.</descr
       <guid>/about/</guid>
       <description>This page was created to write summary from book chapters and review papers. This work was done as part of preparation for a book exam for University of Helsinki. Hopefully, there will be more content beyond the original purpose in future. Stay tuned!
   </description>
-    </item>
-    
-    <item>
-      <title>Embryonic diapause (1cp)</title>
-      <link>/1/01/01/embryonic-diapause-1cp/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/1/01/01/embryonic-diapause-1cp/</guid>
-      <description>Diapause. Marilyn B Renfree, Geoffrey Shaw. Annual Review of Physiology. 2000 link (23pp)
-Embryonic Diapause Is Conserved across Mammals. Grazyna E. Ptak ,Emanuela Tacconi,Marta Czernik,Paola Toschi,Jacek A. Modlinski,Pasqualino Loi. PLOS One. 2012 link (7pp)
-The enigma of embryonic diapause. Marilyn B. Renfree, Jane C. Fenelon. Development. 2017 link (12pp)
-Embryonic diapause and its regulation. Lopes FL, Desmarais JA, Murphy BD. Reproduction. 2004 link (9pp)
-The history of the discovery of embryonic diapause in mammals.</description>
-    </item>
-    
-    <item>
-      <title>Gene Control (3cp)</title>
-      <link>/1/01/01/gene-control-3cp/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/1/01/01/gene-control-3cp/</guid>
-      <description>Chapter summary Chapter 1: Chapter 2: </description>
-    </item>
-    
-    <item>
-      <title>Genetics of Reproduction in Sheep (2cp)</title>
-      <link>/1/01/01/genetics-of-reproduction-in-sheep-2cp/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/1/01/01/genetics-of-reproduction-in-sheep-2cp/</guid>
-      <description>Chapter 1: Selection for litter size, GE Bradford, 15pp
-Chapter 2: Crossbreeding for fecundity, W.J. Boylan, 4 pp
-Chapter 3: Evaluation and utilization of Finnsheep, L.D Young et al., 14pp
-Chapter 10: Genetic and maternal effects on sheep reproduction and their influence on slection, G. Nitter, 10pp
-Chapter 16: Utilization of major genes, Charles smith, 8pp
-Chapter 19: Linear programming model for incorporating the boorola gene into another breed, J.M. Elsen et al, 8pp</description>
-    </item>
-    
-    <item>
-      <title>Genomic imprinting (0.5cp)</title>
-      <link>/1/01/01/genomic-imprinting-0.5cp/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/1/01/01/genomic-imprinting-0.5cp/</guid>
-      <description>Reviewed articles Genomic imprinting in mammals. Denise P. Barlow et al 2014, Cold Spring Harbor Perspectives in Biology, 20pp
-Genomic imprinting and parent-of-origin effects on complex traits. Heather A. Lawson et al. 2013, Nature Reviews Genetis, (10pp)
-Genomic imprinting: the emergence of an epigenetic paradigm.Anne C. Ferguson-Smith, 2011 (12pp)
-write more.</description>
-    </item>
-    
-    <item>
-      <title>Ovulation (1cp)</title>
-      <link>/1/01/01/ovulation-1cp/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/1/01/01/ovulation-1cp/</guid>
-      <description>Summary Based on the following   Regulation of ovulation rate in mmamals: contribution of sheep genetic models. Fabre S, Pierre A, Mulsant P, Bodin L, Pasquale ED, Persani L, Monget P, Monniaux D. Reproductive Biology and Endocrinology. 2006 link (12pp)
-  A review of the effects of supplementary nutrition in the ewe on the concentrations of reproductive and metabolic hormones and the mechanisms that regulate folliculogenesis and ovulation rate.</description>
-    </item>
-    
-    <item>
-      <title>Physiology of Reproduction (2cp)</title>
-      <link>/1/01/01/physiology-of-reproduction-2cp/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/1/01/01/physiology-of-reproduction-2cp/</guid>
-      <description>Chapter Summary Chapter 21, Follicular development in mouse, sheep and human models (49 pp) Chapter 22, Ovulation (25pp) Chapter 23, Structure, Function and Regulation of the corpus luteum (54pp) Chapter 27, Control ovarian cycle of the sheep (47pp) Chapter 38, Embryo Implantation (43pp) Chapter 52, Epigenetics of Reproduction (63pp) </description>
-    </item>
-    
-    <item>
-      <title>preimplantation (1.5 cp)</title>
-      <link>/1/01/01/preimplantation-1.5-cp/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/1/01/01/preimplantation-1.5-cp/</guid>
-      <description>Summary Based on the following review articles   The contribution of the maternal immune system to the establishment of pregnancy in cattle. Trudee F. Frontiers in Immunology. 2015 link (8pp)
-  Bridging endometrial receptivity and implantation: network of hormones, cytokines, and growth factors. Singh M1, Chaudhry P, Asselin E. Journal of Endocrinology. 2011 link (9pp)
-  Comparative aspects of implantation.Bazer FW, Spencer TE, Johnson GA, Burghardt RC, Wu G.</description>
     </item>
     
   </channel>

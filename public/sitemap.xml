@@ -3,103 +3,128 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/categories/book-chapters/</loc>
+    <lastmod>2020-03-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
-    <lastmod>2019-11-28T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/expression/</loc>
-    <lastmod>2019-11-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/2019/11/28/gene-expression-and-regulation-2cp/</loc>
-    <lastmod>2019-11-28T00:00:00+00:00</lastmod>
+    <loc>/2020/03/28/gene-control-book-3cp/</loc>
+    <lastmod>2020-03-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-11-28T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2019-11-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/review-articles/</loc>
-    <lastmod>2019-11-28T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2019-11-28T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/theory/</loc>
+    <lastmod>2020-03-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/embryonic-diapause/</loc>
+    <lastmod>2020-03-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2020/03/22/embryonic-diapause-review-articles-1cp/</loc>
+    <lastmod>2020-03-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/review-articles/</loc>
+    <lastmod>2020-03-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/ovulation/</loc>
+    <lastmod>2020-03-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2020/03/12/ovulation-review-articles-1cp/</loc>
+    <lastmod>2020-03-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2020/03/03/genomic-imprinting-review-articles-1cp/</loc>
+    <lastmod>2020-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/imprinting/</loc>
+    <lastmod>2020-03-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/ncrna/</loc>
+    <lastmod>2020-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2020/02/28/non-coding-rna-review-articles-1.5cp/</loc>
+    <lastmod>2020-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/rna-seq/</loc>
+    <lastmod>2020-01-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2020/01/28/rna-seq-review-articles-1cp/</loc>
+    <lastmod>2020-01-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2020/01/24/genetics-of-reproduction-in-sheep-book-2cp/</loc>
+    <lastmod>2020-01-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/physiology/</loc>
+    <lastmod>2020-01-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2020/01/24/physiology-of-reproduction-book-2cp/</loc>
+    <lastmod>2020-01-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/prolificacy/</loc>
+    <lastmod>2020-01-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/preimplantation/</loc>
+    <lastmod>2020-01-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2020/01/18/preimplantation-review-articles-1.5-cp/</loc>
+    <lastmod>2020-01-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/about/</loc>
     <lastmod>2016-05-05T21:48:51-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/book-chapters/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/embryonic-diapause/</loc>
-  </url>
-  
-  <url>
-    <loc>/1/01/01/embryonic-diapause-1cp/</loc>
-  </url>
-  
-  <url>
-    <loc>/1/01/01/gene-control-3cp/</loc>
-  </url>
-  
-  <url>
-    <loc>/1/01/01/genetics-of-reproduction-in-sheep-2cp/</loc>
-  </url>
-  
-  <url>
-    <loc>/1/01/01/genomic-imprinting-0.5cp/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/imprinting/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/ovulation/</loc>
-  </url>
-  
-  <url>
-    <loc>/1/01/01/ovulation-1cp/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/physiology/</loc>
-  </url>
-  
-  <url>
-    <loc>/1/01/01/physiology-of-reproduction-2cp/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/preimplantation/</loc>
-  </url>
-  
-  <url>
-    <loc>/1/01/01/preimplantation-1.5-cp/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/prolificacy/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/theory/</loc>
   </url>
   
 </urlset>

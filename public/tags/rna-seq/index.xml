@@ -6,27 +6,20 @@
     <description>Recent content in rna-seq on Notes and Bits of Kisun Pokharel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/rna-seq/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>RNA sequencing: the teenage years</title>
-      <link>/2019/11/28/rna-sequencing-the-teenage-years/</link>
-      <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
+      <title>RNA-Seq (review articles, 1cp)</title>
+      <link>/2020/01/28/rna-seq-review-articles-1cp/</link>
+      <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2019/11/28/rna-sequencing-the-teenage-years/</guid>
-      <description>RNA sequencing: the teenage years Roy Stark et al. 2012 (26pp)</description>
-    </item>
-    
-    <item>
-      <title>RNA-Seq: a revolutionary tool for transcriptomics</title>
-      <link>/1/01/01/rna-seq-a-revolutionary-tool-for-transcriptomics/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/1/01/01/rna-seq-a-revolutionary-tool-for-transcriptomics/</guid>
-      <description>RNA-Seq: a revolutionary tool for transcriptomics. Zhang wang et. al. 2009 (8pp)</description>
+      <guid>/2020/01/28/rna-seq-review-articles-1cp/</guid>
+      <description>  A survey of best practices for RNA-seq data analysis Conesa A, Madrigal P, Tarazona S, Gomez-Cabrero D, Cervera A, McPherson A, Szcześniak MW, Gaffney DJ, Elo LL, Zhang X, Mortazavi A. Genome Biology. (2016) link
+  RNA sequencing: the teenage years Stark R, Grzelak M, Hadfield J. Nature Reviews Genetics. (2012) link (26pp)
+  </description>
     </item>
     
   </channel>

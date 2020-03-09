@@ -1,9 +1,15 @@
 ---
-title: "Physiology of Reproduction (2cp)"
+date: 2020-01-24
+title: "Physiology of Reproduction (book, 2cp)"
 categories: ["book chapters"]
 tags: ["physiology"]
 
 ---
+Book: Knobil and Neill's Physiology of Reproduction
+4th Edition (2014)
+
+Selected (see below) chapters from this book.
+
 ## Chapter Summary
 ### Chapter 21, Follicular development in mouse, sheep and human models (49 pp)
 

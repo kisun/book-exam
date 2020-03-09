@@ -1,5 +1,6 @@
 ---
-title: "preimplantation (1.5 cp)"
+date: 2020-01-18
+title: "preimplantation (review articles, 1.5 cp)"
 categories: ["review articles"]
 tags: ["preimplantation"]
 
@@ -11,7 +12,7 @@ tags: ["preimplantation"]
 
 
 2. Bridging endometrial receptivity and implantation: network of hormones, cytokines, and growth factors.
-Singh M1, Chaudhry P, Asselin E. *Journal of Endocrinology*. 2011 [link](https://joe.bioscientifica.com/view/journals/joe/210/1/5.xml) (9pp)
+Singh M, Chaudhry P, Asselin E. *Journal of Endocrinology*. 2011 [link](https://joe.bioscientifica.com/view/journals/joe/210/1/5.xml) (9pp)
 
 3. Comparative aspects of implantation.Bazer FW, Spencer TE, Johnson GA, Burghardt RC, Wu G. *Reproduction*. 2009 [link](https://rep.bioscientifica.com/view/journals/rep/138/2/195.xml) (14pp)
 

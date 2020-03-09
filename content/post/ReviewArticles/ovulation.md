@@ -1,5 +1,6 @@
 ---
-title: "Ovulation (1cp)"
+date: 2020-03-12
+title: "Ovulation (Review articles, 1cp)"
 categories: ["review articles"]
 tags: ["ovulation"]
 
