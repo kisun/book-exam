@@ -1,5 +1,5 @@
 ---
-date: 2020-01-28
+date: 2019-11-29
 title: "RNA-Seq (review articles, 1cp)"
 categories: ["review articles"]
 tags: ["rna-seq"]

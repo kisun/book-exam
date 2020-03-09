@@ -1,61 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Notes and Bits of Kisun Pokharel</title>
+    <title>Posts on Notes and Bits by Kisun Pokharel</title>
     <link>/post/</link>
-    <description>Recent content in Posts on Notes and Bits of Kisun Pokharel</description>
+    <description>Recent content in Posts on Notes and Bits by Kisun Pokharel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Embryonic diapause (review articles, 1cp)</title>
-      <link>/2020/05/22/embryonic-diapause-review-articles-1cp/</link>
-      <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/2020/05/22/embryonic-diapause-review-articles-1cp/</guid>
-      <description>Summary Based on the following review articles   Diapause. Marilyn B Renfree, Geoffrey Shaw. Annual Review of Physiology. 2000 link (23pp)
-  Embryonic Diapause Is Conserved across Mammals. Grazyna E. Ptak ,Emanuela Tacconi,Marta Czernik,Paola Toschi,Jacek A. Modlinski,Pasqualino Loi. PLOS One. 2012 link (7pp)
-  The enigma of embryonic diapause. Marilyn B. Renfree, Jane C. Fenelon. Development. 2017 link (12pp)
-  Embryonic diapause and its regulation. Lopes FL, Desmarais JA, Murphy BD.</description>
-    </item>
-    
-    <item>
-      <title>Ovulation (review articles, 1cp)</title>
-      <link>/2020/04/12/ovulation-review-articles-1cp/</link>
-      <pubDate>Sun, 12 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/2020/04/12/ovulation-review-articles-1cp/</guid>
-      <description>Summary Based on the following   Regulation of ovulation rate in mmamals: contribution of sheep genetic models. Fabre S, Pierre A, Mulsant P, Bodin L, Pasquale ED, Persani L, Monget P, Monniaux D. Reproductive Biology and Endocrinology. 2006 link (12pp)
-  A review of the effects of supplementary nutrition in the ewe on the concentrations of reproductive and metabolic hormones and the mechanisms that regulate folliculogenesis and ovulation rate.</description>
-    </item>
-    
-    <item>
-      <title>Genomic imprinting (review articles, 1cp)</title>
-      <link>/2020/03/03/genomic-imprinting-review-articles-1cp/</link>
-      <pubDate>Tue, 03 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/2020/03/03/genomic-imprinting-review-articles-1cp/</guid>
-      <description>Based on the following Review articles   Genomic imprinting in mammals. Barlow DP, Bartolomei MS. Cold Spring Harbor Perspectives in Biology, (2014) link 20pp
-  Genomic imprinting and parent-of-origin effects on complex traits. Lawson HA, Cheverud JM, Wolf JB. Nature Reviews Genetics. (2013) link (10pp)
-  Genomic imprinting: the emergence of an epigenetic paradigm. Ferguson-Smith AC. Nature Reviews Genetics. (2011) link (12pp)
-  Genomic imprinting effects on complex traits in domesticated animal species.</description>
-    </item>
-    
-    <item>
-      <title>Non-coding RNA (review articles, 1.5cp)</title>
-      <link>/2020/02/28/non-coding-rna-review-articles-1.5cp/</link>
-      <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/2020/02/28/non-coding-rna-review-articles-1.5cp/</guid>
-      <description>This section is mainly about non-coding RNA and their role in gene regulation.
-  Genome Regulation by Long Noncoding RNAs. Rinn JL, Chang HY. Annual Review of Biochemistry (2012) [link]https://doi.org/10.1146/annurev-biochem-051410-092902 (21 pp)
-  Non-coding RNAs in Development and Disease: Background, Mechanisms, and Therapeutic Approaches Beermann J, Piccoli MT, Viereck J, Thum T. Physiological Reviews 2016 link (29 pp)
-  Long non‐coding RNA regulation of reproduction and development. Molecular Reproduction and Development (2015)link (25pp)</description>
-    </item>
     
     <item>
       <title>Gene Control (book, 3cp)</title>
@@ -66,17 +20,6 @@
       <description>Book: Gene Control / David S. Latchman (2010)
 All chapters from this book.
 Chapter summary Chapter 1: Chapter 2: </description>
-    </item>
-    
-    <item>
-      <title>RNA-Seq (review articles, 1cp)</title>
-      <link>/2020/01/28/rna-seq-review-articles-1cp/</link>
-      <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/2020/01/28/rna-seq-review-articles-1cp/</guid>
-      <description>  A survey of best practices for RNA-seq data analysis Conesa A, Madrigal P, Tarazona S, Gomez-Cabrero D, Cervera A, McPherson A, Szcześniak MW, Gaffney DJ, Elo LL, Zhang X, Mortazavi A. Genome Biology. (2016) link
-  RNA sequencing: the teenage years Stark R, Grzelak M, Hadfield J. Nature Reviews Genetics. (2012) link (26pp)
-  </description>
     </item>
     
     <item>
@@ -105,11 +48,68 @@ Chapter 19: Linear programming model for incorporating the boorola gene into ano
     </item>
     
     <item>
-      <title>preimplantation (review articles, 1.5 cp)</title>
-      <link>/2020/01/18/preimplantation-review-articles-1.5-cp/</link>
-      <pubDate>Sat, 18 Jan 2020 00:00:00 +0000</pubDate>
+      <title>Non-coding RNA (review articles, 1.5cp)</title>
+      <link>/2019/12/28/non-coding-rna-review-articles-1.5cp/</link>
+      <pubDate>Sat, 28 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2020/01/18/preimplantation-review-articles-1.5-cp/</guid>
+      <guid>/2019/12/28/non-coding-rna-review-articles-1.5cp/</guid>
+      <description>This section is mainly about non-coding RNA and their role in gene regulation.
+  Genome Regulation by Long Noncoding RNAs. Rinn JL, Chang HY. Annual Review of Biochemistry (2012) [link]https://doi.org/10.1146/annurev-biochem-051410-092902 (21 pp)
+  Non-coding RNAs in Development and Disease: Background, Mechanisms, and Therapeutic Approaches Beermann J, Piccoli MT, Viereck J, Thum T. Physiological Reviews 2016 link (29 pp)
+  Long non‐coding RNA regulation of reproduction and development. Molecular Reproduction and Development (2015)link (25pp)</description>
+    </item>
+    
+    <item>
+      <title>Ovulation (review articles, 1cp)</title>
+      <link>/2019/12/12/ovulation-review-articles-1cp/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/12/12/ovulation-review-articles-1cp/</guid>
+      <description>Summary Based on the following   Regulation of ovulation rate in mmamals: contribution of sheep genetic models. Fabre S, Pierre A, Mulsant P, Bodin L, Pasquale ED, Persani L, Monget P, Monniaux D. Reproductive Biology and Endocrinology. 2006 link (12pp)
+  A review of the effects of supplementary nutrition in the ewe on the concentrations of reproductive and metabolic hormones and the mechanisms that regulate folliculogenesis and ovulation rate.</description>
+    </item>
+    
+    <item>
+      <title>Genomic imprinting (review articles, 1cp)</title>
+      <link>/2019/12/03/genomic-imprinting-review-articles-1cp/</link>
+      <pubDate>Tue, 03 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/12/03/genomic-imprinting-review-articles-1cp/</guid>
+      <description>Based on the following Review articles   Genomic imprinting in mammals. Barlow DP, Bartolomei MS. Cold Spring Harbor Perspectives in Biology, (2014) link 20pp
+  Genomic imprinting and parent-of-origin effects on complex traits. Lawson HA, Cheverud JM, Wolf JB. Nature Reviews Genetics. (2013) link (10pp)
+  Genomic imprinting: the emergence of an epigenetic paradigm. Ferguson-Smith AC. Nature Reviews Genetics. (2011) link (12pp)
+  Genomic imprinting effects on complex traits in domesticated animal species.</description>
+    </item>
+    
+    <item>
+      <title>RNA-Seq (review articles, 1cp)</title>
+      <link>/2019/11/29/rna-seq-review-articles-1cp/</link>
+      <pubDate>Fri, 29 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/11/29/rna-seq-review-articles-1cp/</guid>
+      <description>  A survey of best practices for RNA-seq data analysis Conesa A, Madrigal P, Tarazona S, Gomez-Cabrero D, Cervera A, McPherson A, Szcześniak MW, Gaffney DJ, Elo LL, Zhang X, Mortazavi A. Genome Biology. (2016) link
+  RNA sequencing: the teenage years Stark R, Grzelak M, Hadfield J. Nature Reviews Genetics. (2012) link (26pp)
+  </description>
+    </item>
+    
+    <item>
+      <title>Embryonic diapause (review articles, 1cp)</title>
+      <link>/2019/11/22/embryonic-diapause-review-articles-1cp/</link>
+      <pubDate>Fri, 22 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/11/22/embryonic-diapause-review-articles-1cp/</guid>
+      <description>Summary Based on the following review articles   Diapause. Marilyn B Renfree, Geoffrey Shaw. Annual Review of Physiology. 2000 link (23pp)
+  Embryonic Diapause Is Conserved across Mammals. Grazyna E. Ptak ,Emanuela Tacconi,Marta Czernik,Paola Toschi,Jacek A. Modlinski,Pasqualino Loi. PLOS One. 2012 link (7pp)
+  The enigma of embryonic diapause. Marilyn B. Renfree, Jane C. Fenelon. Development. 2017 link (12pp)
+  Embryonic diapause and its regulation. Lopes FL, Desmarais JA, Murphy BD.</description>
+    </item>
+    
+    <item>
+      <title>preimplantation (review articles, 1.5 cp)</title>
+      <link>/2019/11/18/preimplantation-review-articles-1.5-cp/</link>
+      <pubDate>Mon, 18 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/11/18/preimplantation-review-articles-1.5-cp/</guid>
       <description>Summary Based on the following review articles   The contribution of the maternal immune system to the establishment of pregnancy in cattle. Trudee F. Frontiers in Immunology. 2015 link (8pp)
   Bridging endometrial receptivity and implantation: network of hormones, cytokines, and growth factors. Singh M, Chaudhry P, Asselin E. Journal of Endocrinology. 2011 link (9pp)
   Comparative aspects of implantation.Bazer FW, Spencer TE, Johnson GA, Burghardt RC, Wu G.</description>

@@ -1,51 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Notes and Bits of Kisun Pokharel</title>
+    <title>Tags on Notes and Bits by Kisun Pokharel</title>
     <link>/tags/</link>
-    <description>Recent content in Tags on Notes and Bits of Kisun Pokharel</description>
+    <description>Recent content in Tags on Notes and Bits by Kisun Pokharel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>diapause</title>
-      <link>/tags/diapause/</link>
-      <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/diapause/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ovulation</title>
-      <link>/tags/ovulation/</link>
-      <pubDate>Sun, 12 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/ovulation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>imprinting</title>
-      <link>/tags/imprinting/</link>
-      <pubDate>Tue, 03 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/imprinting/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ncRNA</title>
-      <link>/tags/ncrna/</link>
-      <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/ncrna/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>theory</title>
@@ -53,15 +17,6 @@
       <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/theory/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>rna-seq</title>
-      <link>/tags/rna-seq/</link>
-      <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/rna-seq/</guid>
       <description></description>
     </item>
     
@@ -84,9 +39,54 @@
     </item>
     
     <item>
+      <title>ncRNA</title>
+      <link>/tags/ncrna/</link>
+      <pubDate>Sat, 28 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/ncrna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ovulation</title>
+      <link>/tags/ovulation/</link>
+      <pubDate>Thu, 12 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/ovulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>imprinting</title>
+      <link>/tags/imprinting/</link>
+      <pubDate>Tue, 03 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/imprinting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rna-seq</title>
+      <link>/tags/rna-seq/</link>
+      <pubDate>Fri, 29 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/rna-seq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>diapause</title>
+      <link>/tags/diapause/</link>
+      <pubDate>Fri, 22 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/diapause/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>preimplantation</title>
       <link>/tags/preimplantation/</link>
-      <pubDate>Sat, 18 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 18 Nov 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/preimplantation/</guid>
       <description></description>

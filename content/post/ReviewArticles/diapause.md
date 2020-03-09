@@ -1,5 +1,5 @@
 ---
-date: 2020-05-22
+date: 2019-11-22
 title: "Embryonic diapause (review articles, 1cp)"
 categories: ["review articles"]
 tags: ["diapause"]

@@ -1,5 +1,5 @@
 ---
-date: 2020-01-18
+date: 2019-11-18
 title: "preimplantation (review articles, 1.5 cp)"
 categories: ["review articles"]
 tags: ["preimplantation"]

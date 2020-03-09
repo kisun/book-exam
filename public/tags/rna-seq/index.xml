@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>rna-seq on Notes and Bits of Kisun Pokharel</title>
+    <title>rna-seq on Notes and Bits by Kisun Pokharel</title>
     <link>/tags/rna-seq/</link>
-    <description>Recent content in rna-seq on Notes and Bits of Kisun Pokharel</description>
+    <description>Recent content in rna-seq on Notes and Bits by Kisun Pokharel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/rna-seq/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>RNA-Seq (review articles, 1cp)</title>
-      <link>/2020/01/28/rna-seq-review-articles-1cp/</link>
-      <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
+      <link>/2019/11/29/rna-seq-review-articles-1cp/</link>
+      <pubDate>Fri, 29 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2020/01/28/rna-seq-review-articles-1cp/</guid>
+      <guid>/2019/11/29/rna-seq-review-articles-1cp/</guid>
       <description>  A survey of best practices for RNA-seq data analysis Conesa A, Madrigal P, Tarazona S, Gomez-Cabrero D, Cervera A, McPherson A, Szcześniak MW, Gaffney DJ, Elo LL, Zhang X, Mortazavi A. Genome Biology. (2016) link
   RNA sequencing: the teenage years Stark R, Grzelak M, Hadfield J. Nature Reviews Genetics. (2012) link (26pp)
   </description>

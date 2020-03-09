@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Notes and Bits of Kisun Pokharel"
+title = "Notes and Bits by Kisun Pokharel"
 theme = "hugo-lithium"
 preserveTaxonomyNames = true
 googleAnalytics = ""

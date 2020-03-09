@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Notes and Bits of Kisun Pokharel</title>
+    <title>Categories on Notes and Bits by Kisun Pokharel</title>
     <link>/categories/</link>
-    <description>Recent content in Categories on Notes and Bits of Kisun Pokharel</description>
+    <description>Recent content in Categories on Notes and Bits by Kisun Pokharel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>review articles</title>
-      <link>/categories/review-articles/</link>
-      <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/review-articles/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>book</title>
@@ -26,6 +17,15 @@
       <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>/categories/book/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>review articles</title>
+      <link>/categories/review-articles/</link>
+      <pubDate>Sat, 28 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/review-articles/</guid>
       <description></description>
     </item>
     
