@@ -1,5 +1,5 @@
 ---
-date: 2020-01-24
+date: 2020-01-23
 title: "Genetics of Reproduction in Sheep (book, 2cp)"
 categories: ["book"]
 tags: ["prolificacy"]
