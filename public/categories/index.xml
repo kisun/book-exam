@@ -6,19 +6,10 @@
     <description>Recent content in Categories on Notes and Bits of Kisun Pokharel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>book chapters</title>
-      <link>/categories/book-chapters/</link>
-      <pubDate>Sat, 28 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/book-chapters/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>review articles</title>
@@ -26,6 +17,24 @@
       <pubDate>Sun, 22 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>/categories/review-articles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>book</title>
+      <link>/categories/book/</link>
+      <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/book/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>book chapters</title>
+      <link>/categories/book-chapters/</link>
+      <pubDate>Fri, 24 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/book-chapters/</guid>
       <description></description>
     </item>
     

@@ -6,20 +6,10 @@
     <description>Recent content on Notes and Bits of Kisun Pokharel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Gene Control (book, 3cp)</title>
-      <link>/2020/03/28/gene-control-book-3cp/</link>
-      <pubDate>Sat, 28 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/2020/03/28/gene-control-book-3cp/</guid>
-      <description>Book: Gene Control / David S. Latchman (2010) All chapters from this book.
-Chapter summary Chapter 1: Chapter 2: </description>
-    </item>
     
     <item>
       <title>Embryonic diapause (Review articles, 1cp)</title>
@@ -68,7 +58,18 @@ Chapter summary Chapter 1: Chapter 2: </description>
     </item>
     
     <item>
-      <title>RNA-Seq (review articles, 1cp)</title>
+      <title>Gene Control (book, 3cp)</title>
+      <link>/2020/02/27/gene-control-book-3cp/</link>
+      <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/02/27/gene-control-book-3cp/</guid>
+      <description>Book: Gene Control / David S. Latchman (2010)
+All chapters from this book.
+Chapter summary Chapter 1: Chapter 2: </description>
+    </item>
+    
+    <item>
+      <title>RNA-Seq (Review articles, 1cp)</title>
       <link>/2020/01/28/rna-seq-review-articles-1cp/</link>
       <pubDate>Tue, 28 Jan 2020 00:00:00 +0000</pubDate>
       
