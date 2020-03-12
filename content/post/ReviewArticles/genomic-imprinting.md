@@ -1,6 +1,6 @@
 ---
 date: 2019-12-03
-title: "Genomic imprinting (review articles, 1cp)"
+title: "Genomic imprinting (review articles, 2cp)"
 categories: ["review articles"]
 tags: ["imprinting"]
 
@@ -21,5 +21,11 @@ tags: ["imprinting"]
 5. Genomic imprinting and reproduction. Swales AK, Spears N. *Reproduction*. (2005) [link](https://rep.bioscientifica.com/view/journals/rep/130/4/1300389.xml) (10pp)
 
 
+6. Imprinted MicroRNA gene clusters in the evolution, development, and functions of mammalian placenta. Malnou EC, Umlauf D, Mouysset M, Cavaillé J. *Frontiers in Genetics*. (2019) [link](https://www.frontiersin.org/articles/10.3389/fgene.2018.00706/full) (15pp)
 
+7. Genomic Imprinting and Physiological Processes in Mammals. Tucci V, Isles AR, Kelsey G, Ferguson-Smith AC; Erice Imprinting Group. *Cell*. (2019) [link](https://www.sciencedirect.com/science/article/pii/S0092867419301060?via%3Dihub) (14pp)
 
+8. Imprinted loci in domestic livestock species as epigenomic targets for artificial selection of complex traits.
+Magee DA, Spillane C, Berkowicz EW, Sikora KM, MacHugh DE. *Animal Genetics*. (2014) (15pp)
+
+9. Epigenetic marks: regulators of livestock phenotypes and conceivable sources of missing variation in livestock improvement programs. Ibeagha-Awemu EM, Zhao X. *Frontiers in Genetics*. (2015) (17pp)
